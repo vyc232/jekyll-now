@@ -1,0 +1,33 @@
+---
+layout: post
+title: Week 10
+---
+
+## What did you do this past week?
+
+
+This past week I started on Project 4: Darwin. I was pretty excited about it since it's our first actual object-oriented assignment. My partner and I started working early, on Tuesday, and we met everyday to work on the project little by little. I think were pretty close to finishing. We think that we've got everything done, but we just need to run our 72x72 output against other people's to check if it's correct. This past week we also go our exams which went as well as I expected.
+
+
+## What's in your way?
+
+
+What's in my way is my grade that I got back from the exam. Of course I'd like to have gotten a better grade, but I think I'm a little worried about my grade in the course. I definitely need to work harder and not show up to the exam when it's starting... I also have a lot going on this week while the project is due so I'm gonna be a bit swamped.
+
+
+## What will you do next week?
+
+
+This next week I'm going to write unit tests and finish the entire project. I really hope that ours is working and we don't have to go through and find all the little bugs because that took us a while last week. Next week, I also plan to catch up and review what's been going on in class. 
+
+
+## Tip of the week
+
+
+My tip of the week is <https://www.sciencedaily.com/news/computers_math/computer_science/>. I enjoy reading news articles relating to computer science because it helps broaden my knowledge of what's out there in the real world and how computer science is changing the future. It's really interesting to see all the fields that are effected by computer science and it helps me keep my career options open.
+
+
+
+
+
+
